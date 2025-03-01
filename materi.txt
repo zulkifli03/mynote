@@ -14,3 +14,6 @@ jadwal mengajar(nosql)
   admin (andoid / react native)
   user(andoid / react native)
 
+music player (sql)
+ admin (web / next js)
+ user(andoid / react native)

@@ -2,6 +2,7 @@
 -intro git dan github
 
 -html table dan list
+-html media
 -html css
 -html internal css
 -html external css

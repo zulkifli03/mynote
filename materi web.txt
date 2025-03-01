@@ -1,2 +1,8 @@
 -intro html
 -intro git dan github
+
+-html table dan list
+-html css
+-html internal css
+-html external css
+-html css animation

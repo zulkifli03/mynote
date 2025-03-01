@@ -1,0 +1,16 @@
+e-commerce
+  - admin toko (web / next js)
+  - user (android / react native)
+
+jadwal mengajar (sql)
+  admin (web / next js)
+  user(andoid / react native)
+
+sosial media 
+  -firebase
+  -user (android / react native)
+	
+jadwal mengajar(nosql)
+  admin (andoid / react native)
+  user(andoid / react native)
+
